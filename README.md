@@ -6,6 +6,8 @@
 
 🎓 Informática para Internet
 
+🎓 Desenvolvedora Full Stack 
+
 🚀 Desenvolvedora Web em Formação 
  
 
