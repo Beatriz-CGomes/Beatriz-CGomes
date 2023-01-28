@@ -1,8 +1,8 @@
 # Olá!!!! sou a Bea 👩
 
-🎓 Publicidade e Propaganda
-
 🎓 Computação Gráfica
+
+🎓 Publicidade e Propaganda
 
 🎓 Informática para Internet
 
