@@ -24,13 +24,13 @@
 
 ## 
 Iniciando Estudos: 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
    </div> 
 
 
-
+  ## 
 <div align="center">
   <a href="https://github.com/Beatriz-CGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beatriz-CGomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
