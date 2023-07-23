@@ -28,7 +28,7 @@ Iniciando Estudos:
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
    </div> 
-## 
+
 
 
 <div align="center">
