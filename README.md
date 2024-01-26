@@ -1,12 +1,15 @@
 # Olá!!!! sou a Bea 👩
 
-🎓 Computação Gráfica
+<h3>Cursos Técnicos: </h3>
+🎓 Computação Gráfica 
+
+🎓 Informática para Internet 
+
+<h3>Cursos Superior: </h3>
 
 🎓 Publicidade e Propaganda
 
-🎓 Informática para Internet
-
-🎓 Desenvolvedora Full Stack 
+🎓 Analise e Desenvolvimento de Sistemas
 
 🚀 Desenvolvedora Web em Formação 
 
