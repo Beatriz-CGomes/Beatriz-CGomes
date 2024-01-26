@@ -5,7 +5,7 @@
 
 🎓 Informática para Internet 
 
-<h3>Cursos Superior: </h3>
+<h3>Cursos Superiores: </h3>
 🎓 Publicidade e Propaganda
 
 🎓 Analise e Desenvolvimento de Sistemas
