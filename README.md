@@ -10,6 +10,7 @@
 
 🎓 Analise e Desenvolvimento de Sistemas
 
+<hr>
 🚀 Desenvolvedora Web em Formação 
 
  ##
