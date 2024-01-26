@@ -8,7 +8,8 @@
 <h3>Cursos Superiores: </h3>
 🎓 Publicidade e Propaganda
 
-🎓 Analise e Desenvolvimento de Sistemas
+🎓 Análise e Desenvolvimento de Sistemas
+
 
 
 🚀 Desenvolvedora Web em Formação 
