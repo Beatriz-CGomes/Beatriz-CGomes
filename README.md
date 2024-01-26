@@ -2,13 +2,11 @@
 
 <h3>Cursos Técnicos: </h3>
 🎓 Computação Gráfica 
-
 🎓 Informática para Internet 
 
 <h3>Cursos Superior: </h3>
 
 🎓 Publicidade e Propaganda
-
 🎓 Analise e Desenvolvimento de Sistemas
 
 🚀 Desenvolvedora Web em Formação 
