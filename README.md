@@ -1,6 +1,7 @@
 # Olá!!!! sou a Bea 👩
 
 <h3>Formações: </h3>
+
 🎓 Computação Gráfica
 
 
