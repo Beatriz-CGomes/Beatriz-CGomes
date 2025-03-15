@@ -3,6 +3,7 @@
 <h3>Formações: </h3>
 🎓 Computação Gráfica
 
+
 🎓 Publicidade e Propaganda
 
 🎓 Informática para Internet 
