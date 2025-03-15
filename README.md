@@ -1,16 +1,10 @@
 # Olá!!!! sou a Bea 👩
 
-<h3>Cursos Técnicos: </h3>
-🎓 Computação Gráfica 
-
-🎓 Informática para Internet 
-
-<h3>Cursos Superiores: </h3>
+<h3>Formações: </h3>
+🎓 Computação Gráfica
 🎓 Publicidade e Propaganda
-
+🎓 Informática para Internet 
 🎓 Análise e Desenvolvimento de Sistemas
-
-
 
 🚀 Desenvolvedora Web em Formação 
 
