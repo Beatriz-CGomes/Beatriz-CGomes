@@ -2,8 +2,11 @@
 
 <h3>Formações: </h3>
 🎓 Computação Gráfica
+
 🎓 Publicidade e Propaganda
+
 🎓 Informática para Internet 
+
 🎓 Análise e Desenvolvimento de Sistemas
 
 🚀 Desenvolvedora Web em Formação 
